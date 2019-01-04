@@ -1,0 +1,140 @@
+/*
+* Leah Rizzo
+* October 11, 2018
+* CSS
+*/
+
+/* My margin and padding of the page to start which we have to do first in our CSS */
+
+* {
+margin: 4;
+padding: 0;
+}
+
+/* The page all together as a whole, the body */
+
+body {
+width: 85%;
+margin: auto;
+background-color: lightgray;
+}
+
+/* Fisrt Image which is in the main */
+#Pleasehelpsign{
+    float: left;
+border-top:5px dashed  black;
+border-right:5px dashed  black;
+border-bottom:5px dashed black;
+border-left:5px dashed black; 
+    
+border-width: 3px;
+border-width: 5px;
+border-width: 3px;
+border width: 5px; 
+    
+margin-top: 1em;
+margin-right: 1em;
+margin-bottom: 1 em;
+margin-left: 1em;
+    
+
+}
+/* My title of the page, header */
+h1{
+font-size: 190%;
+text-align: center;
+border-bottom: solid black;
+    clear: both;
+}
+/* Second Image which is in the main */
+#Homelessgraph{ 
+border-top:2px solid  black;
+border-right:2px solid  black;
+border-bottom:2px solid black;
+border-left:2px solid black;
+
+margin-top: 1em;
+margin-right: .3em;
+margin-bottom: 1 em;
+margin-left: .3em;
+
+width: 200px; height: 150px;}
+/* Third Image which is in the main */
+#Volunteering{
+border-top:2px solid  black;
+border-right:2px solid  black;
+border-bottom:2px solid black;
+border-left:2px solid black;
+
+margin-top: 1em;
+margin-right: .3em;
+margin-bottom: 1 em;
+margin-left: .3em;
+float: left;
+width: 200px; height: 150px;}
+
+/* Fourth Image which is in the main */
+#Homelesstogether{
+border-top:2px solid  black;
+border-right:2px solid  black;
+border-bottom:2px solid black;
+border-left:2px solid black;
+
+margin-top: 1em;
+margin-right: .3em;
+margin-bottom: 1 em;
+margin-left: .3em;
+
+width: 200px; height: 150px;}
+/* Fifth Image which is in the main */
+#Homelessgroup{
+border-top:2px solid  black;
+border-right:2px solid  black;
+border-bottom:2px solid black;
+border-left:2px solid black;
+
+margin-top: 1em;
+margin-right: .3em;
+margin-bottom: 1 em;
+margin-left: .3em;
+
+width: 200px; height: 150px;
+    
+}
+/* Sixth Image which is in the main */
+#Acknowledgehomeless{
+border-top:2px solid  black;
+border-right:2px solid  black;
+border-bottom:2px solid black;
+border-left:2px solid black;
+
+margin-top: 1em;
+margin-right: .3em;
+margin-bottom: 1 em;
+margin-left: .3em;
+
+width: 200px; height: 150px;
+}
+
+
+/* Seventh and last which is in the main */
+#Helphomeless{
+border-top:2px solid  black;
+border-right:2px solid  black;
+border-bottom:2px solid black;
+border-left:2px solid black;
+
+margin-top: 1em;
+margin-right: .3em;
+margin-bottom: 1 em;
+margin-left: .3em;
+
+width: 300px; height: 200px; 
+float: right;
+}
+
+footer{
+    border-top: solid black;
+    clear: both;
+}
+
